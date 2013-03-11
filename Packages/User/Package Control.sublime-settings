@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"Gitignore",
+		"Grunt",
+		"Handlebars",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSHint",
+		"LiveReload",
+		"Package Control",
+		"Require Helper",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TortoiseSVN",
+		"Underscore.js Snippets"
+	]
+}
